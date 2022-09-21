@@ -12,7 +12,6 @@
         <activity
             android:name="io.github.recursivecorruption.kuai.AndroidLauncher"
             android:label="@string/app_name" 
-            android:screenOrientation="landscape"
             android:windowSoftInputMode="adjustResize"
             android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout">
             <intent-filter>
